@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MP5 Part2</string>
+    <string-array name="topics">
+        <item>Capitals</item>
+        <item>Math</item>
+        <item>Flags</item>
+    </string-array>
+</resources>
